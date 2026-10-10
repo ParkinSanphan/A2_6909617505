@@ -16,3 +16,8 @@ header{
     font-family: 'Bachelor', sans-serif;
                                                 
 }
+
+#example_image_item_1{
+    max-width: 90%;
+    height: auto;   
+}
